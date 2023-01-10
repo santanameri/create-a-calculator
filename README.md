@@ -1,2 +1,2 @@
 # create-a-calculator
-Creation of a calculator using HTML, CSS and JavaScript languages.
+Criando uma calculadora usnado as linguagens: HTML, CSS e JavaScript.
